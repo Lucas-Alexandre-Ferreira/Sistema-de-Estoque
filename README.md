@@ -10,17 +10,6 @@ Um sistema simples de gerenciamento de estoque desenvolvido com **HTML**, **CSS*
 - Cálculo automático do valor total do estoque.
 - Layout responsivo para dispositivos móveis.
 
-## **Demonstração**
-
-**[Sistema de Estoque](https://ninja1375.github.io/Sistema-de-Estoque/)**
-
-## **Como usar**
-1. Faça o download ou clone este repositório:
-   ```bash
-   git clone https://github.com/Ninja1375/Sistema-de-Estoque.git
-
-2. Abra o arquivo `index.html` em um navegador web.
-
 **Estrutura do projeto**
 ```bash
 📂 Sistema-de-Estoque
@@ -49,8 +38,3 @@ Um sistema simples de gerenciamento de estoque desenvolvido com **HTML**, **CSS*
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma **issue** ou enviar um **pull request**.
 
-## Apoie-me:
-
-<a href="https://buymeacoffee.com/antonio13" target="_blank"><img loading="lazy" src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=seu_nome_de_usuario&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" width="130" height="30"></a>
-
-<a href="https://www.paypal.com/donate/?hosted_button_id=DN574F28FYUNG" target="_blank"><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/PayPal.svg" width="130" height="30"></a>
